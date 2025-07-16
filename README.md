@@ -1,5 +1,7 @@
 # 🌿 ZuluTech Brand Kit
 
+![ZuluTech Logo](./zulutech-logo.png)
+
 **Empowering African agro-innovation through visual storytelling and ethical design.**  
 This repository hosts the official branding assets, strategy documents, and carousel content for the ZuluTech Social Growth project—curated by the NeoBrand Surge studio.
 
