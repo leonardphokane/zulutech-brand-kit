@@ -25,14 +25,17 @@ This archive showcases creative tech projects where branding meets justice, cult
 
 Click below to view each asset in full clarity:
 
-- 🔗 [Logo Preview](logo.png)  
+- 🔗 [Logo Preview](zulutech-logo.png)
+  
   *Sprout-shaped neural identity in emerald and gold*
 
-- 🔗 [Pitch Slide](pitch-cover.png)  
+- 🔗 [Pitch Slide](zulutech-pitch-cover.png)  
   *Investor-ready intro slide with value pillars*
 
-- 🔗 [Carousel Design](social-carousel.png)  
+- 🔗 [Carousel Design](zulutech-carousel-preview.png)  
   *Swipeable social series built to convert*
+
+🔗 Full captions → [zulutech-carousel-captions.md](zulutech-carousel-captions.md)
 
 ---
 
