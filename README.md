@@ -35,6 +35,18 @@ All visual assets are designed in the **Afro-futurist tech aesthetic** with Pan-
 
 ---
 
+## 🖼️ Visual Previews
+
+### 🔗 Investor Pitch Slide  
+Strategic intro slide with sprout icon and value pillars  
+![Pitch Slide](./pitch-cover.png)
+
+### 📲 Carousel Preview  
+Swipeable social series built to convert — highlights Challenge ➡️ Tech ➡️ Data ➡️ Impact ➡️ Action  
+![Carousel Preview](./social-carousel.png)
+
+🔗 Full captions → [zulutech-carousel-captions.md](./zulutech-carousel-captions.md)
+
 ## 📲 Social Launch Strategy
 
 This kit supports:
